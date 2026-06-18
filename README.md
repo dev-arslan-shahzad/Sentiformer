@@ -293,7 +293,7 @@ If you use SentiFormer in your research or projects, please cite:
   author    = {Muhammad Arslan Shahzad and Zaid Khan},
   year      = {2025},
   publisher = {GitHub},
-  url       = {https://github.com/yourusername/SentiFormer}
+  url       = {https://github.com/dev-arslan-shahzad/Sentiformer}
 }
 ```
 
