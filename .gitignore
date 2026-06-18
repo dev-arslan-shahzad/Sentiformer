@@ -20,7 +20,3 @@ env/
 *.csv
 *.jsonl
 data/
-
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb

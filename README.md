@@ -276,6 +276,7 @@ SentiFormer/     # Model architecture, config, and SentimentAnalyzer class
 ├── LICENSE
 └── sentiformer.pth
 └── tokenizer.json
+└── Sentiment_Analysis.ipynb
 ├── Integration/
 │   └── Realtime Integration.pdf 
 ```
